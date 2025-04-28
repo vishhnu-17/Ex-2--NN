@@ -1,4 +1,4 @@
-<H3>Name: Kurapati Vishnu Vardhan ReddyH</H3>
+<H3>Name: Kurapati Vishnu Vardhan Reddy</H3>
 <H3>Register no: 212223040103</H3>
 <H3>Experiment No. 2</H3>
 
